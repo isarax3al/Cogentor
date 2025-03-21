@@ -1,0 +1,7 @@
+{
+    "name": "Ransomware Attack",
+    "severity": 0.9,
+    "complexity": 0.8,
+    "urgency": 0.95,
+    "description": "Encryption-based ransomware infection detected"
+}

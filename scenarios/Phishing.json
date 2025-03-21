@@ -1,0 +1,7 @@
+{
+    "name": "Phishing Campaign",
+    "severity": 0.8,
+    "complexity": 0.6,
+    "urgency": 0.7,
+    "description": "Targeted phishing attack against HR department"
+}

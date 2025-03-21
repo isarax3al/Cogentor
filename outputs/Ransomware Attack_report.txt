@@ -1,0 +1,10 @@
+=== Cybersecurity Decision Report ===
+Scenario: Ransomware Attack
+--------------------------------------
+AI Analysis:
+- Risk Score: 0.88
+- Threat Level: Critical
+- Recommended Action: Contain
+
+Human Adjustment:
+- Final Decision: Normal Operations
