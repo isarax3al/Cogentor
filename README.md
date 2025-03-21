@@ -112,5 +112,5 @@ docker rmi cogentor
 ---
 
  
-**Support**: [support@cogentor.tech](mailto:isarax3al@gmail.com)
+**Support**: [isarax3al@gmail.com](mailto:isarax3al@gmail.com)
 ```
