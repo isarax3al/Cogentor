@@ -70,13 +70,37 @@ docker run -it --rm -p 5000:5000 cogentor
 python benchmark.py --scenario=all --runs=100
 ```
 
-## Usage 🚨
-```bash
-# Interactive mode
-python cogentor_cli.py
+## Usage Examples 🔍
 
-# Direct analysis
-python cogentor_cli.py analyze --scenario=phishing --profile=expert --format=json
+### Threat Analysis
+```bash
+python cogentor_cli.py analyze --scenario=phishing --expertise=expert
+```
+**Sample Output:**
+```
+🔍 Threat Analysis Report
+• Scenario: Phishing Campaign
+• AI Risk Level: Critical (0.85)
+• Human Adjusted Score: 0.77
+• Final Recommendation: IMMEDIATE CONTAINMENT
+```
+
+### Report Generation
+```bash
+python cogentor_cli.py report --scenario=ransomware --expertise=novice
+```
+**Sample Report:**
+```text
+=== Cybersecurity Decision Report ===
+Scenario: Ransomware Attack
+--------------------------------------
+AI Analysis:
+• Risk Score: 0.92
+• Threat Level: Critical
+• Recommended Action: System Isolation
+
+Human Adjustment:
+• Final Decision: Enhanced Monitoring Activated
 ```
 
 ## Verification ✅
