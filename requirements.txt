@@ -4,7 +4,4 @@ argparse==1.4.0
 pytest==8.1.1
 python-dotenv==1.0.1
 pytest-cov
-<<<<<<< HEAD
 
-=======
->>>>>>> 667a62c16c6d2fb22a723dd4e1e431b3a99e35a1
