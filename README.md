@@ -7,8 +7,6 @@
 
 
 
-Hybrid decision system achieving **93.7% threat recognition accuracy** with **<200ms average response time**.
-
 ## Features 🛡️
 - **Multi-Platform Support**: Windows/Linux/macOS
 - **Real-Time Analysis**: 50-150ms per threat evaluation
@@ -138,3 +136,4 @@ docker rmi cogentor
  
 **Support**: [isarax3al@gmail.com](mailto:isarax3al@gmail.com)
 ```
+
